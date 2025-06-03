@@ -1,22 +1,30 @@
 CROPWISE COMPANION (Your Digital Partner in Agricultural Excellence) 
 
+
 PROBLEM STATEMENT:
+
 Agriculture heavily relies on informed decision-making, and one crucial aspect is the proper selection of crops and fertilizers based on various factors. In contemporary agriculture, there exists a critical need for an integrated solution that recommends optimal crops, fertilizers and also assists farmers in improving soil health. Farmers often face challenges in optimizing their yield due to a lack of personalized guidance. This project aims to address these challenges by developing an Intelligent Crops and Fertilizer Recommendation System to recommend suitable crops and fertilizers while providing guidance on soil health improvement and plant disease detection with an integrated chatbot system.
 
 ISSUES FACED BY THE FARMERS:
+
 1.	Less demand due to high supply
 2.	Fluctuating MSP (Minimum Selling Price)
 3.	Over dependent on uncertain fertilizers
 4.	Less return on investment
 5.	Unpredictable Weather Conditions
+   
 This project is dedicated to tackling these pressing issues by implementing innovative solutions tailored to the needs of farmers, with the goal of stabilizing their income and increasing productive yields. By addressing these fundamental challenges, this project is poised to make a meaningful impact on the lives of farmers and the broader agricultural community.
+
 VISION STATEMENT:
+
 To revolutionize farming practices by providing personalized, predictive recommendations to farmers, enabling them to make informed decisions, maximize yield potential and contribute to the advancement of sustainable agriculture globally.
 
 MISSION STATEMENT:
+
 To empower farmers with data driven insights and recommendations, leveraging their previous crop inputs, to optimize crop selection and fertilizer usage, ultimately enhancing agricultural productivity and sustainability.
 
 UNIQUENESS OF THE PROJECT:
+
 Personalized Recommendations: By considering farmers' inputs on their previous crop and geographic area, the system provides personalized recommendations tailored to their specific circumstances. This individualized guidance can lead to better crop selection decisions and improved yields.
 
 Utilization of Trend Analysis: By suggesting the most trending crops, the system helps farmers stay updated on market demands and emerging opportunities. This can enable farmers to capitalize on current market trends and potentially increase their profitability.
@@ -27,12 +35,15 @@ Fertilizer Optimization: By providing recommendations on the percentage of ferti
 
 Investor-Farmer Agreements: Cropwise Companion facilitates agreements between investors and farmers by providing a platform for communication and negotiation. Investors can browse the trending crops page to identify lucrative opportunities and initiate agreements with farmers through the website. Payment processing functionality is integrated into the platform to streamline financial transactions between parties.
 
+
 FEATURES OF THIS PROJECT:
+
 1.	Creates an agreement between farmers and investors
 2.	Helps the farmers by recommending crops
 3.	Recommend fertilizers for the desired crops
 4.	Shows the crops which are in demand
 5.	Introduces proper requirement for investors
+
 
 TECH STACK:
 1.	HTML
