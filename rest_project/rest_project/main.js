@@ -8,13 +8,13 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyBvNXJZRZ0Vn6HDqvCmxMSLqv3NMYiJg0E",
-    authDomain: "agribro-ca712.firebaseapp.com",
-    databaseURL: "https://agribro-ca712-default-rtdb.firebaseio.com",
-    projectId: "agribro-ca712",
-    storageBucket: "agribro-ca712.appspot.com",
-    messagingSenderId: "582212674532",
-    appId: "1:582212674532:web:ec9fac4ccc92f586e39df1"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "AUTHDOMAIN",
+    databaseURL: "DBURL",
+    projectId: "ID",
+    storageBucket: "STORAGEBUCKET",
+    messagingSenderId: "SENDERID",
+    appId: "APPID"
   };
 
   // Initialize Firebase
